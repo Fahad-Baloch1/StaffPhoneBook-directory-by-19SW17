@@ -69,7 +69,7 @@ public class StaffPhoneGUI extends JFrame
 
    public StaffPhoneGUI ()
    {
-      setTitle ("Staff Phone App v0.03");
+      setTitle ("Staff PhoneBook APP");
 
       JPanel flowPanel = new JPanel (new FlowLayout (FlowLayout.CENTER));
 
